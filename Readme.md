@@ -7,7 +7,7 @@ Youtube link : https://youtu.be/r__FlccfZ4s
 [ View The Report ](Report.pdf) 
 
 --- 
-Summary : 
+Summary : Survey on graph transformers
 
 Graph transformers aim to combine the strengths of graph structures and transformer models. However, existing approaches vary widely, making them difficult to compare or understand. Each method uses different techniques to build graphs, represent them, encode structural information, and integrate it into the model. Because of this, it is hard to see the overall design space clearly.
 
